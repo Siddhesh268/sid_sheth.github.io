@@ -1103,13 +1103,3 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Leetcode
---------------------------------------------------------------*/
-.leetcode-icon {
-  /* Set the width and height of the icon */
-  width: 24px; /* Adjust the size as needed */
-  height: 24px; /* Adjust the size as needed */
-  /* Use the SVG code as the background image */
-  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23000000"><path d="M12 0C5.373 0 0 5.373 0 12c0 6.626 5.373 12 12 12s12-5.374 12-12c0-6.627-5.373-12-12-12zm5.334 8.118l-5.535 7.898a1.334 1.334 0 0 1-2.162 0L6.666 8.118a1.333 1.333 0 0 1 1.081-2.057h4.528c.487 0 .925.271 1.145.704l.697 1.124a1.333 1.333 0 0 0 2.29 0l.697-1.124c.22-.433.658-.704 1.145-.704h4.528c.473 0 .884.285 1.081.722a1.333 1.333 0 0 1-2.163 1.546z"/></svg>');
-}
